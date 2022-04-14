@@ -7,7 +7,7 @@ import { Registrace } from "./components/Registrace/index"
 const App = () => {
   return (
     <>
-    <Registrace></Registrace>
+    <Registrace />
     </>
   )
 };
